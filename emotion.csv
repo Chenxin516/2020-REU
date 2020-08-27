@@ -1,0 +1,992 @@
+,GRYD_ETO_ID,sentiment
+0,BVCB-0-144-1,fear
+1,BVCB-0-174-1,sadness
+2,Southeast 3-10-24-1,fear
+3,Southeast 3-10-18-1,sadness
+4,Southeast 3-10-17-1,sadness
+5,Southeast 3-10-19-1,sadness
+6,Foothill-14-192-1,fear
+7,BVCB-0-77-1,sadness
+8,77th 2-13-1301-1,fear
+9,SPWTN-0-84-1,fear
+10,Harbor-21-127-1,neutral
+11,Harbor-21-128-1,fear
+12,RPARGR-PP-15-2,fear
+13,Hollywood-12-34-1,anger
+14,Hollywood-12-36-1,fear
+15,Southeast 1-22-31-1,neutral
+16,Southeast 1-22-23-1,joy
+17,Harbor-21-111-1,fear
+18,Northeast-20-25-2,joy
+19,Northeast-20-12-2,sadness
+20,Northeast-20-97-2,fear
+21,Southeast 1-22-15-1,sadness
+22,Foothill-14-219-1,sadness
+23,Foothill-14-211-1,anger
+24,Southeast 1-22-27-1,fear
+25,Northeast-20-98-2,sadness
+26,Northeast-20-1-2,sadness
+27,NHSEA-0-222-3,joy
+28,Southeast 1-22-24-1,sadness
+29,Northeast-20-64-2,sadness
+30,Southeast 1-22-32-1,fear
+31,Harbor-21-137-1,fear
+32,Foothill-14-224-1,joy
+33,Northeast-20-100-2,sadness
+34,Harbor-21-134-1,sadness
+35,BVCB-0-235-2,sadness
+36,Harbor-21-112-1,sadness
+37,Northeast-20-83-2,neutral
+38,Northeast-20-10-2,fear
+39,77th 3-20-30-1,neutral
+40,Northeast-20-90-2,joy
+41,BVCB-0-191-1,fear
+42,Southeast 1-22-18-1,neutral
+43,Southeast 1-22-34-1,sadness
+44,Southeast 1-22-8-1,sadness
+45,Harbor-21-113-1,sadness
+46,Harbor-21-109-1,sadness
+47,Mission-19-92-1,fear
+48,Hollenbeck 1-20-27-2,neutral
+49,BVCB-0-213-2,sadness
+50,77th 1-16-57-1,sadness
+51,77th 1-16-56-1,joy
+52,Northeast-20-161-1,neutral
+53,NHSEA-0-348-2,sadness
+54,Newton 1-17-76-1,sadness
+55,77th 3-20-69-1,fear
+56,Hollenbeck 2-20-1-2,neutral
+57,Harbor-21-125-1,fear
+58,77th 1-16-37-2,sadness
+59,Newton 2-23-66-1,fear
+60,Southwest 2-23-54-1,sadness
+61,77th 1-16-16-1,fear
+62,Hollenbeck 2-20-146-2,neutral
+63,77th 1-16-10-1,sadness
+64,77th 1-16-17-1,neutral
+65,Harbor-21-126-1,anger
+66,Newton 2-23-103-1,fear
+67,77th 2-13-1302-1,fear
+68,Southwest 1-15-256-1,fear
+69,77th 1-16-13-1,neutral
+70,NHSEA-0-217-2,fear
+71,BVCB-0-215-3,fear
+72,Devonshire-Topanga-11-8-1,joy
+73,77th 2-13-1297-1,fear
+74,Southwest 1-15-246-1,sadness
+75,Hollenbeck 2-20-56-2,joy
+76,Newton 1-17-100-1,neutral
+77,Newton 2-23-104-1,sadness
+78,Mission-19-20-2,sadness
+79,77th 1-16-49-1,sadness
+80,77th 1-16-58-1,fear
+81,77th 3-20-59-2,sadness
+82,CPHBRE-0-3-1,joy
+83,Devonshire-Topanga-11-7-1,neutral
+84,Southeast 1-22-6-1,sadness
+85,Southeast 1-22-43-1,fear
+86,Southeast 1-22-29-1,sadness
+87,CPHBRE-0-39-1,fear
+88,Southwest 1-15-258-1,sadness
+89,Hollenbeck 1-20-49-2,neutral
+90,Newton 2-23-26-1,sadness
+91,Devonshire-Topanga-11-3-2,fear
+92,Devonshire-Topanga-11-4-2,joy
+93,Southeast 3-10-108-1,sadness
+94,Devonshire-Topanga-11-15-1,joy
+95,Newton 2-23-67-1,neutral
+96,Southwest 1-15-263-1,fear
+97,Southeast 1-22-9-1,neutral
+98,Newton 1-17-120-1,anger
+99,Southwest 2-23-57-1,fear
+100,Devonshire-Topanga-11-5-1,neutral
+101,Southeast 3-10-111-1,joy
+102,Northeast-20-106-2,sadness
+103,Newton 1-17-107-1,fear
+104,Southwest 1-15-269-1,sadness
+105,Devonshire-Topanga-11-12-2,anger
+106,Newton 2-23-97-1,sadness
+107,Newton 2-23-86-1,neutral
+108,Northeast-20-25-2,sadness
+109,Newton 2-23-113-1,fear
+110,BVCB-0-34-4,neutral
+111,Northeast-20-35-2,fear
+112,Devonshire-Topanga-11-13-1,fear
+113,Hollenbeck 1-20-59-2,sadness
+114,Newton 1-17-121-1,neutral
+115,Southwest 1-15-277-1,neutral
+116,BVCB-0-129-2,neutral
+117,Southwest 1-15-280-1,neutral
+118,Newton 1-17-127-1,fear
+119,Hollenbeck 1-20-69-2,sadness
+120,Hollenbeck 2-20-50-2,sadness
+121,Hollenbeck 2-20-73-2,sadness
+122,Hollenbeck 2-20-43-2,neutral
+123,Northeast-20-64-2,fear
+124,Hollenbeck 2-20-74-2,fear
+125,Southwest 2-23-10-1,sadness
+126,77th 2-13-1309-1,sadness
+127,Harbor-21-155-1,neutral
+128,SSSEARE-0-72-1,neutral
+129,SSSEARE-0-71-1,sadness
+130,BVCB-0-232-2,fear
+131,Devonshire-Topanga-11-60-2,fear
+132,Southwest 1-15-264-1,fear
+133,Rampart 1-12-480-2,neutral
+134,Rampart 1-12-480-2,neutral
+135,Rampart 1-12-474-1,fear
+136,Olympic-12-12-2,sadness
+137,Rampart 1-12-231-2,fear
+138,77th 2-13-1316-1,anger
+139,Rampart 1-12-406-2,fear
+140,BVCB-0-184-2,sadness
+141,BVCB-0-76-3,sadness
+142,Hollenbeck 2-20-65-2,fear
+143,77th 2-13-1290-2,fear
+144,NHSEA-0-362-2,fear
+145,BVCB-0-215-3,sadness
+146,77th 1-16-63-1,sadness
+147,Southwest 1-15-287-2,joy
+148,Southwest 1-15-281-2,fear
+149,Olympic-12-58-1,sadness
+150,CPHBRE-0-39-1,sadness
+151,Southeast 1-22-61-1,sadness
+152,BHSEA-2-135-3,sadness
+153,77th 2-13-1313-2,sadness
+154,Southwest 1-15-289-1,anger
+155,Southwest 1-15-290-1,anger
+156,Northeast-20-164-2,joy
+157,BVCB-0-196-3,fear
+158,Southeast 3-10-120-1,sadness
+159,BVCB-0-235-2,sadness
+160,Harbor-21-156-1,sadness
+161,Hollenbeck 3-20-91-2,fear
+162,Hollenbeck 3-20-99-2,neutral
+163,77th 3-20-79-2,joy
+164,77th 3-20-108-2,neutral
+165,Hollenbeck 2-20-23-3,sadness
+166,NHSEA-0-217-2,anger
+167,77th 3-20-155-1,neutral
+168,77th 2-13-1331-1,joy
+169,Hollenbeck 2-20-89-2,sadness
+170,Hollenbeck 3-20-96-2,fear
+171,Southeast 1-22-62-1,sadness
+172,Hollenbeck 3-20-4-3,sadness
+173,Newton 1-17-160-1,sadness
+174,Rampart 1-12-454-2,neutral
+175,Harbor-21-160-1,joy
+176,Pacific-18-109-1,sadness
+177,Hollenbeck 2-20-77-2,fear
+178,77th 2-13-1326-1,fear
+179,77th 2-13-1306-1,sadness
+180,Pacific-18-204-1,sadness
+181,Pacific-18-236-1,sadness
+182,Newton 2-23-128-1,neutral
+183,Southeast 1-22-66-1,fear
+184,Southwest 1-15-262-1,sadness
+185,Southwest 1-15-298-1,sadness
+186,Foothill-14-316-1,neutral
+187,Hollenbeck 2-20-52-3,neutral
+188,Devonshire-Topanga-11-97-1,neutral
+189,Newton 1-17-169-1,anger
+190,Pacific-18-108-1,sadness
+191,VMVHF-0-62-2,anger
+192,Pacific-18-103-3,sadness
+193,Newton 2-23-145-1,sadness
+194,Hollenbeck 2-20-120-2,neutral
+195,77th 2-13-1341-1,sadness
+196,77th 2-13-1333-1,fear
+197,Devonshire-Topanga-11-92-1,fear
+198,77th 2-13-1342-1,fear
+199,Hollenbeck 2-20-118-2,fear
+200,77th 2-13-1238-1,sadness
+201,Pacific-18-236-1,sadness
+202,Harbor-21-166-1,sadness
+203,Newton 2-23-64-1,sadness
+204,Harbor-21-116-2,fear
+205,Hollenbeck 1-20-77-3,joy
+206,BVCB-0-88-3,joy
+207,77th 2-13-1340-1,sadness
+208,Hollenbeck 3-20-118-2,fear
+209,Foothill-14-308-1,sadness
+210,Hollenbeck 1-20-101-2,neutral
+211,Newton 2-23-135-1,neutral
+212,SVCIS-0-44-2,sadness
+213,Foothill-14-294-1,sadness
+214,Foothill-14-211-1,sadness
+215,Foothill-14-286-1,sadness
+216,Southwest 1-15-296-2,fear
+217,Pacific-18-85-1,sadness
+218,Foothill-14-210-1,neutral
+219,Hollenbeck 3-20-3-2,anger
+220,Pacific-18-96-1,neutral
+221,Harbor-21-168-1,anger
+222,Newton 1-17-182-1,neutral
+223,77th 3-20-59-3,sadness
+224,Southwest 1-15-268-2,joy
+225,Foothill-14-309-1,neutral
+226,CPHBRE-0-61-1,sadness
+227,Valley-92-16-1,joy
+228,Newton 1-17-189-1,fear
+229,Harbor-21-174-1,fear
+230,Southwest 1-15-238-1,anger
+231,77th 2-13-1327-1,fear
+232,BVCB-0-187-2,sadness
+233,Rampart 1-12-506-1,sadness
+234,Harbor-21-173-1,joy
+235,Northeast-20-196-2,joy
+236,NHSEA-0-248-2,fear
+237,Harbor-21-175-1,fear
+238,Harbor-21-179-1,fear
+239,77th 1-16-74-1,fear
+240,Hollenbeck 2-20-46-2,neutral
+241,CPHBRE-0-96-1,anger
+242,Southwest 1-15-280-1,sadness
+243,Harbor-21-182-1,sadness
+244,CPHBRE-0-49-1,joy
+245,Hollenbeck 3-20-107-2,sadness
+246,Newton 1-17-175-1,joy
+247,Southwest 1-15-289-1,sadness
+248,Newton 2-23-182-1,sadness
+249,Newton 1-17-191-1,sadness
+250,Southwest 1-15-269-1,sadness
+251,Newton 2-23-160-1,neutral
+252,77th 1-16-63-1,neutral
+253,77th 2-13-1337-1,sadness
+254,77th 3-20-137-2,joy
+255,Devonshire-Topanga-11-114-1,sadness
+256,Newton 2-23-15-1,sadness
+257,BVCB-0-232-2,anger
+258,BVCB-0-192-4,neutral
+259,Southwest 1-15-290-1,neutral
+260,Southwest 1-15-301-2,sadness
+261,BVCB-0-76-3,sadness
+262,Hollenbeck 3-20-120-2,fear
+263,Rampart 1-12-503-1,anger
+264,Hollenbeck 3-20-124-2,neutral
+265,Newton 2-23-86-2,neutral
+266,Newton 2-23-151-1,sadness
+267,Southwest 2-23-82-1,sadness
+268,BVCB-0-119-3,neutral
+269,Hollenbeck 3-20-131-2,neutral
+270,Hollenbeck 3-20-132-2,sadness
+271,Hollenbeck 3-20-133-2,neutral
+272,Southwest 1-15-312-1,fear
+273,Southwest 1-15-298-1,joy
+274,77th 3-20-109-2,fear
+275,Newton 2-23-155-1,joy
+276,Southwest 1-15-272-2,neutral
+277,BVCB-0-184-2,sadness
+278,BVCB-0-129-2,joy
+279,Hollenbeck 1-20-123-2,sadness
+280,Northeast-20-188-2,sadness
+281,Southwest 1-15-303-2,fear
+282,Hollenbeck 1-20-98-2,neutral
+283,Hollenbeck 3-20-153-2,fear
+284,Hollenbeck 1-20-64-2,fear
+285,BVCB-0-226-3,fear
+286,Valley-92-13-1,sadness
+287,Northeast-20-144-2,sadness
+288,Southwest 1-15-320-2,fear
+289,Harbor-21-187-1,fear
+290,Hollenbeck 2-20-89-2,fear
+291,Pacific-18-121-1,sadness
+292,Valley-92-1-1,neutral
+293,77th 2-13-1305-1,joy
+294,Southwest 1-15-305-2,sadness
+295,BVCB-0-196-3,sadness
+296,Harbor-21-188-1,sadness
+297,FGSEARE-0-76-1,anger
+298,Foothill-14-312-1,sadness
+299,BVCB-0-217-2,fear
+300,77th 2-13-1362-1,neutral
+301,77th 1-16-64-1,joy
+302,Hollenbeck 2-20-136-2,neutral
+303,Newton 1-17-207-1,sadness
+304,Southwest 1-15-311-2,fear
+305,Hollenbeck 2-20-143-2,neutral
+306,Northeast-20-242-2,fear
+307,Hollenbeck 1-20-149-2,sadness
+308,77th 2-13-1359-1,neutral
+309,77th 2-13-1358-1,neutral
+310,77th 2-13-1290-2,neutral
+311,Rampart 1-12-532-1,sadness
+312,Hollenbeck 2-20-45-2,neutral
+313,Rampart 2-12-235-2,neutral
+314,Southeast 3-10-135-1,joy
+315,Southeast 3-10-159-1,neutral
+316,Newton 1-17-174-1,sadness
+317,Pacific-18-252-1,sadness
+318,Hollenbeck 1-20-120-2,neutral
+319,Newton 1-17-200-1,joy
+320,77th 1-16-82-1,sadness
+321,Northeast-20-206-2,fear
+322,Northeast-20-149-3,neutral
+323,Devonshire-Topanga-11-128-1,neutral
+324,Devonshire-Topanga-11-125-1,sadness
+325,BVCB-0-235-2,sadness
+326,Pacific-18-250-1,fear
+327,77th 2-13-1309-1,joy
+328,Newton 1-17-116-2,joy
+329,Rampart 2-12-226-2,anger
+330,Hollenbeck 1-20-121-2,neutral
+331,Newton 1-17-206-1,fear
+332,Hollenbeck 3-20-125-2,sadness
+333,Rampart 2-12-251-1,sadness
+334,Southwest 2-23-92-1,neutral
+335,Newton 1-17-208-1,neutral
+336,Southwest 1-15-262-1,neutral
+337,Southeast 3-10-158-1,sadness
+338,Southwest 2-23-61-2,anger
+339,Rampart 2-12-259-1,sadness
+340,Pacific-18-114-1,sadness
+341,Newton 1-17-133-1,fear
+342,Hollenbeck 1-20-52-3,fear
+343,Newton 2-23-198-1,sadness
+344,Rampart 2-12-224-2,anger
+345,Southwest 2-23-93-1,neutral
+346,Foothill-14-381-1,fear
+347,Northeast-20-119-2,neutral
+348,Devonshire-Topanga-11-140-1,joy
+349,Southeast 3-10-120-1,sadness
+350,Rampart 2-12-244-2,neutral
+351,Hollenbeck 1-20-111-2,neutral
+352,CPHBRE-0-82-1,sadness
+353,Harbor-21-192-1,sadness
+354,Devonshire-Topanga-11-135-1,sadness
+355,Newton 2-23-56-1,fear
+356,Northeast-20-156-2,sadness
+357,SSSEARE-0-93-1,fear
+358,Devonshire-Topanga-11-7-2,fear
+359,Northeast-20-226-2,fear
+360,Hollenbeck 1-20-148-2,sadness
+361,Southwest 1-15-316-2,sadness
+362,Devonshire-Topanga-11-131-1,fear
+363,Newton 2-23-210-1,fear
+364,Devonshire-Topanga-11-97-1,sadness
+365,Rampart 2-12-216-1,sadness
+366,Hollenbeck 1-20-103-2,neutral
+367,Hollenbeck 3-20-166-2,sadness
+368,Southeast 1-22-102-1,fear
+369,Hollenbeck 1-20-77-3,joy
+370,Devonshire-Topanga-11-142-1,fear
+371,Newton 2-23-220-1,sadness
+372,Newton 2-23-219-1,joy
+373,BVCB-0-158-3,sadness
+374,Newton 2-23-172-1,sadness
+375,Hollenbeck 3-20-184-2,sadness
+376,Southwest 2-23-82-1,fear
+377,Olympic-12-139-2,fear
+378,Hollenbeck 2-20-156-2,joy
+379,Southeast 3-10-162-1,joy
+380,Northeast-20-228-2,fear
+381,Harbor-21-194-1,fear
+382,Southwest 1-15-296-2,joy
+383,77th 1-16-83-1,sadness
+384,Southwest 1-15-312-1,sadness
+385,77th 2-13-1386-1,sadness
+386,Northeast-20-253-2,fear
+387,Southeast 3-10-185-1,sadness
+388,Southwest 1-15-342-1,anger
+389,Hollenbeck 2-20-140-2,neutral
+390,Southeast 1-22-133-1,sadness
+391,Hollenbeck 1-20-122-2,fear
+392,Northeast-20-123-2,sadness
+393,Devonshire-Topanga-11-13-2,joy
+394,BVCB-0-222-2,fear
+395,Newton 1-17-181-1,neutral
+396,Harbor-21-196-1,joy
+397,Hollenbeck 2-20-147-2,fear
+398,Southeast 3-10-137-2,fear
+399,Hollenbeck 2-20-158-2,joy
+400,Newton 2-23-113-2,fear
+401,Foothill-14-380-1,neutral
+402,Newton 1-17-225-1,sadness
+403,Southwest 1-15-269-1,sadness
+404,Southwest 1-15-334-2,sadness
+405,77th 1-16-84-1,sadness
+406,Rampart 1-12-523-1,joy
+407,Hollenbeck 1-20-131-2,joy
+408,Hollenbeck 2-20-40-3,neutral
+409,Southwest 1-15-333-2,joy
+410,77th 1-16-92-1,neutral
+411,77th 3-20-163-1,sadness
+412,Newton 2-23-218-1,fear
+413,Newton 2-23-215-1,sadness
+414,Southwest 2-23-63-2,neutral
+415,Harbor-21-179-1,fear
+416,Hollenbeck 2-20-162-3,sadness
+417,Newton 1-17-227-1,fear
+418,Northeast-20-231-2,joy
+419,Southwest 1-15-301-2,fear
+420,Newton 1-17-230-1,sadness
+421,Harbor-21-175-1,sadness
+422,CPHBRE-0-98-1,fear
+423,BHSEA-1-117-3,fear
+424,77th 3-20-70-2,joy
+425,Northeast-20-292-1,fear
+426,Southwest 2-23-124-1,fear
+427,77th 2-13-1394-1,fear
+428,Southeast 3-10-167-1,fear
+429,Hollenbeck 1-20-150-2,neutral
+430,Southeast 3-10-169-1,fear
+431,Southeast 3-10-170-1,sadness
+432,Southeast 3-10-171-1,sadness
+433,Southeast 3-10-173-1,fear
+434,Newton 1-17-232-1,fear
+435,Southwest 1-15-290-1,fear
+436,Southwest 1-15-314-2,sadness
+437,Newton 1-17-208-1,neutral
+438,Southwest 1-15-320-2,fear
+439,Foothill-14-314-1,fear
+440,Devonshire-Topanga-11-105-2,fear
+441,Northeast-20-245-2,fear
+442,Newton 1-17-226-1,sadness
+443,Newton 2-23-129-2,sadness
+444,Hollenbeck 1-20-98-2,neutral
+445,Newton 1-17-200-1,sadness
+446,Newton 2-23-69-2,joy
+447,Newton 1-17-116-2,joy
+448,Harbor-21-198-1,fear
+449,Hollenbeck 2-20-100-2,fear
+450,Hollenbeck 2-20-150-2,fear
+451,Harbor-21-184-2,fear
+452,Southeast 3-10-148-2,fear
+453,Southwest 2-23-122-1,neutral
+454,Northeast-20-268-2,fear
+455,77th 1-16-100-1,fear
+456,Harbor-21-162-2,neutral
+457,Valley-92-33-1,neutral
+458,Southwest 1-15-319-2,sadness
+459,Harbor-21-207-1,neutral
+460,Harbor-21-182-1,sadness
+461,Foothill-14-411-1,sadness
+462,Newton 1-17-244-1,joy
+463,77th 1-16-112-1,fear
+464,NHSEA-0-319-5,sadness
+465,Newton 1-17-189-1,fear
+466,Foothill-14-391-1,neutral
+467,Newton 1-17-206-1,fear
+468,77th 1-16-81-1,fear
+469,Newton 1-17-160-1,sadness
+470,Newton 1-17-126-2,sadness
+471,Devonshire-Topanga-11-100-2,anger
+472,Northeast-20-242-2,sadness
+473,77th 3-20-251-1,sadness
+474,Hollenbeck 2-20-45-2,fear
+475,Northeast-20-169-2,fear
+476,77th 3-20-245-1,fear
+477,Northeast-20-218-2,sadness
+478,Pacific-18-111-2,sadness
+479,Mission-14-251-1,sadness
+480,77th 3-20-253-1,fear
+481,77th 1-16-63-1,joy
+482,77th 3-20-255-1,sadness
+483,Northeast-20-162-3,fear
+484,Harbor-21-169-2,fear
+485,Hollenbeck 2-20-118-3,fear
+486,Northeast-20-176-2,sadness
+487,Newton 2-23-224-1,neutral
+488,Southwest 1-15-311-2,anger
+489,Harbor-21-160-2,fear
+490,CPHBRE-0-113-1,fear
+491,Harbor-21-203-1,fear
+492,77th 1-16-64-1,neutral
+493,Foothill-14-410-1,sadness
+494,Northeast-20-303-1,fear
+495,Foothill-14-312-1,fear
+496,Newton 1-17-207-1,sadness
+497,Harbor-21-205-1,anger
+498,Newton 2-23-253-1,sadness
+499,Harbor-21-200-1,fear
+500,NHSEA-0-149-3,sadness
+501,Hollenbeck 1-20-183-2,sadness
+502,Hollywood-12-85-1,neutral
+503,Harbor-21-199-1,sadness
+504,Hollenbeck 1-20-130-2,sadness
+505,Newton 2-23-241-1,fear
+506,Devonshire-Topanga-11-18-3,sadness
+507,Newton 2-23-247-1,sadness
+508,Rampart 1-12-531-2,sadness
+509,Hollenbeck 1-20-191-2,fear
+510,Hollenbeck 1-20-193-2,sadness
+511,Hollenbeck 1-20-116-2,joy
+512,Hollenbeck 1-20-201-2,fear
+513,Hollenbeck 1-20-208-2,sadness
+514,Foothill-14-393-1,neutral
+515,Northeast-20-123-2,joy
+516,Southwest 2-23-93-1,sadness
+517,Northeast-20-274-2,joy
+518,Southwest 1-15-316-2,sadness
+519,BVCB-0-158-3,sadness
+520,Northeast-20-300-2,fear
+521,Northeast-20-296-2,fear
+522,Hollenbeck 2-20-175-2,joy
+523,BVCB-0-129-2,neutral
+524,Newton 1-17-253-1,neutral
+525,Southeast 1-22-126-1,sadness
+526,Northeast-20-310-1,fear
+527,Northeast-20-306-1,sadness
+528,Newton 2-23-237-1,fear
+529,Southwest 2-23-100-1,fear
+530,Devonshire-Topanga-11-103-1,fear
+531,Southeast 3-10-160-1,fear
+532,Southeast 3-10-90-2,fear
+533,Southwest 1-15-355-2,fear
+534,Northeast-20-259-2,fear
+535,Northeast-20-211-2,fear
+536,Southwest 1-15-342-1,joy
+537,Hollenbeck 1-20-43-4,neutral
+538,Mission-14-216-2,fear
+539,Northeast-20-130-3,sadness
+540,Hollenbeck 1-20-78-3,sadness
+541,Newton 2-23-245-1,fear
+542,Southeast 3-10-88-1,fear
+543,Newton 2-23-151-1,joy
+544,Foothill-14-401-1,sadness
+545,Southwest 1-15-350-2,fear
+546,Newton 2-23-263-1,fear
+547,Newton 1-17-215-2,neutral
+548,Southwest 1-15-352-2,fear
+549,Southwest 1-15-334-2,fear
+550,Northeast-20-297-2,neutral
+551,Hollenbeck 2-20-180-2,neutral
+552,Southwest 1-15-370-2,fear
+553,Southwest 2-23-124-1,fear
+554,SSSEARE-0-103-1,sadness
+555,Southwest 1-15-346-2,fear
+556,Southwest 1-15-347-2,sadness
+557,Pacific-18-232-2,neutral
+558,Southwest 1-15-269-1,joy
+559,SSSEARE-0-97-1,sadness
+560,Newton 2-23-126-1,fear
+561,Newton 1-17-267-1,sadness
+562,Southwest 1-15-353-2,sadness
+563,Southwest 1-15-354-2,fear
+564,Southwest 1-15-349-2,neutral
+565,Southwest 2-23-98-1,sadness
+566,Southwest 1-15-301-2,sadness
+567,77th 1-16-91-1,sadness
+568,Southwest 1-15-359-2,neutral
+569,77th 2-13-1393-1,fear
+570,Northeast-20-206-3,fear
+571,Southeast 3-10-173-1,fear
+572,Southeast 3-10-170-1,fear
+573,Southeast 3-10-169-1,fear
+574,Southeast 3-10-167-1,fear
+575,Southeast 3-10-172-1,sadness
+576,Southwest 1-15-357-2,sadness
+577,Southeast 3-10-171-1,sadness
+578,77th 2-13-1396-1,fear
+579,77th 2-13-1398-1,fear
+580,77th 2-13-1395-1,sadness
+581,77th 2-13-1397-1,sadness
+582,Southwest 1-15-356-2,neutral
+583,Southwest 2-23-92-1,fear
+584,Newton 1-17-274-1,neutral
+585,Southwest 2-23-126-1,fear
+586,Southwest 2-23-115-1,sadness
+587,Newton 1-17-62-2,sadness
+588,CPHBRE-0-109-1,fear
+589,Newton 1-17-271-1,sadness
+590,Southwest 1-15-364-2,fear
+591,Foothill-14-430-1,fear
+592,Southwest 1-15-366-2,neutral
+593,Southwest 1-15-348-3,sadness
+594,Southwest 1-15-358-2,sadness
+595,Pacific-18-245-1,sadness
+596,Newton 1-17-117-2,neutral
+597,77th 2-13-1448-1,neutral
+598,77th 2-13-1447-1,neutral
+599,Southwest 2-23-172-1,anger
+600,Devonshire-Topanga-11-101-1,sadness
+601,Southwest 1-15-305-2,sadness
+602,Southwest 2-23-182-1,sadness
+603,Southwest 2-23-179-1,sadness
+604,Foothill-14-314-1,fear
+605,Hollenbeck 1-20-186-2,sadness
+606,Foothill-14-375-1,joy
+607,Southwest 1-15-308-3,fear
+608,Northeast-20-278-2,joy
+609,Harbor-21-212-1,fear
+610,Foothill-14-428-1,neutral
+611,Southwest 2-23-161-1,joy
+612,Newton 2-23-198-1,fear
+613,Newton 1-17-268-1,fear
+614,Southwest 1-15-374-2,fear
+615,Newton 1-17-251-1,sadness
+616,Foothill-14-388-1,fear
+617,Newton 1-17-250-1,fear
+618,Southwest 2-23-143-2,anger
+619,Northeast-20-284-2,sadness
+620,Southwest 2-23-160-1,sadness
+621,Southwest 2-23-128-2,fear
+622,Southeast 3-10-197-1,joy
+623,Foothill-14-389-1,neutral
+624,Northeast-20-325-1,sadness
+625,Southwest 2-23-183-1,sadness
+626,Southeast 3-10-190-1,joy
+627,77th 3-20-288-1,fear
+628,Newton 1-17-232-1,fear
+629,Olympic-12-138-2,neutral
+630,Northeast-20-303-1,fear
+631,CPHBRE-0-110-1,sadness
+632,Foothill-14-440-1,sadness
+633,Mission-14-325-1,fear
+634,Newton 2-23-175-1,joy
+635,Northeast-20-10-3,fear
+636,Mission-14-322-1,sadness
+637,Southwest 2-23-138-1,sadness
+638,Foothill-14-433-2,neutral
+639,Mission-14-321-1,fear
+640,Southwest 2-23-90-2,joy
+641,Mission-14-326-1,sadness
+642,77th 1-16-110-1,sadness
+643,Newton 1-17-56-2,neutral
+644,Mission-14-328-1,sadness
+645,Devonshire-Topanga-11-152-1,sadness
+646,Newton 1-17-227-1,sadness
+647,Foothill-14-451-1,fear
+648,Newton 1-17-225-1,sadness
+649,Newton 2-23-277-1,sadness
+650,Harbor-21-214-1,fear
+651,Northeast-20-268-2,fear
+652,Harbor-21-215-1,joy
+653,Southwest 2-23-169-1,fear
+654,Harbor-21-196-1,sadness
+655,77th 1-16-111-1,joy
+656,Harbor-21-184-2,neutral
+657,Newton 1-17-226-1,sadness
+658,Southwest 2-23-129-1,fear
+659,Foothill-14-455-1,joy
+660,Southeast 3-10-175-2,fear
+661,Rampart 1-12-560-2,fear
+662,Devonshire-Topanga-11-160-1,fear
+663,Harbor-21-169-2,sadness
+664,Southwest 1-15-350-2,neutral
+665,Foothill-14-456-1,neutral
+666,Harbor-21-198-1,neutral
+667,Southwest 2-23-67-3,sadness
+668,Hollenbeck 2-20-50-3,fear
+669,Harbor-21-175-1,sadness
+670,77th 1-16-113-1,sadness
+671,Southwest 1-15-347-2,joy
+672,Devonshire-Topanga-11-154-1,sadness
+673,Southwest 1-15-346-2,sadness
+674,Southwest 2-23-189-1,fear
+675,Rampart 1-12-481-2,sadness
+676,Southwest 1-15-314-2,sadness
+677,Southwest 1-15-316-2,neutral
+678,BVCB-0-158-3,sadness
+679,Hollenbeck 2-20-136-2,sadness
+680,Harbor-21-199-1,fear
+681,Northeast-20-242-2,sadness
+682,Southwest 1-15-319-2,joy
+683,Northeast-20-300-2,sadness
+684,Harbor-21-203-1,sadness
+685,Southwest 1-15-349-2,anger
+686,Southwest 1-15-355-2,joy
+687,Hollenbeck 1-20-177-2,neutral
+688,Harbor-21-176-2,sadness
+689,Northeast-20-263-3,neutral
+690,Southwest 1-15-366-2,anger
+691,Southwest 1-15-360-2,anger
+692,Hollenbeck 1-20-188-2,neutral
+693,Newton 2-23-247-1,sadness
+694,Foothill-14-473-1,fear
+695,Harbor-21-217-1,sadness
+696,Northeast-20-269-2,fear
+697,Hollenbeck 1-20-183-2,neutral
+698,Hollenbeck 1-20-205-2,sadness
+699,Northeast-20-211-2,neutral
+700,Newton 2-23-129-2,fear
+701,Hollenbeck 3-20-193-2,neutral
+702,Southwest 2-23-193-1,sadness
+703,Southwest 1-15-298-1,fear
+704,Southwest 2-23-202-1,fear
+705,Newton 2-23-113-2,joy
+706,Southwest 1-15-308-3,fear
+707,Newton 2-23-249-1,neutral
+708,Southwest 1-15-384-2,joy
+709,Foothill-14-468-1,fear
+710,Newton 1-17-289-1,sadness
+711,Devonshire-Topanga-11-165-1,joy
+712,Mission-14-254-2,neutral
+713,Mission-14-216-2,sadness
+714,Newton 2-23-248-1,sadness
+715,Newton 1-17-291-1,joy
+716,Newton 2-23-258-1,fear
+717,Newton 2-23-291-1,fear
+718,Newton 2-23-253-1,sadness
+719,Newton 2-23-220-1,neutral
+720,Northeast-20-350-1,sadness
+721,Hollenbeck 1-20-212-3,fear
+722,BVCB-0-235-3,fear
+723,Newton 2-23-280-1,anger
+724,Hollenbeck 3-20-249-1,neutral
+725,Mission-14-370-1,fear
+726,Mission-14-367-1,fear
+727,Mission-14-371-1,joy
+728,Newton 2-23-257-1,anger
+729,Devonshire-Topanga-11-172-1,anger
+730,Devonshire-Topanga-11-135-2,fear
+731,Southwest 1-15-390-2,fear
+732,Southeast 3-10-141-2,sadness
+733,Hollenbeck 2-20-10-3,neutral
+734,Hollenbeck 3-20-212-2,neutral
+735,Hollenbeck 1-20-243-1,fear
+736,Hollenbeck 1-20-217-2,sadness
+737,Hollenbeck 2-20-201-2,neutral
+738,Pacific-18-263-1,fear
+739,BVCB-0-225-3,fear
+740,77th 3-20-106-2,sadness
+741,Pacific-18-132-1,anger
+742,Hollenbeck 3-20-199-2,sadness
+743,Hollenbeck 1-20-106-3,neutral
+744,Southwest 1-15-370-2,fear
+745,Southwest 1-15-301-2,sadness
+746,Hollenbeck 3-20-240-2,fear
+747,Hollenbeck 3-20-260-1,neutral
+748,Hollenbeck 1-20-256-1,fear
+749,Hollenbeck 3-20-231-2,fear
+750,Devonshire-Topanga-11-143-1,joy
+751,Southeast 2-20-294-2,fear
+752,Newton 2-23-290-1,sadness
+753,Harbor-21-220-1,sadness
+754,Hollenbeck 1-20-105-4,sadness
+755,Harbor-21-230-1,neutral
+756,Rampart 2-12-382-1,fear
+757,Newton 1-23-307-1,joy
+758,Southwest 2-23-161-1,neutral
+759,Southwest 1-15-393-2,anger
+760,Hollenbeck 3-20-263-1,fear
+761,Hollenbeck 3-20-243-2,fear
+762,Hollenbeck 3-20-255-2,joy
+763,Hollenbeck 3-20-236-2,neutral
+764,Rampart 1-12-391-2,sadness
+765,Rampart 2-12-383-1,fear
+766,Hollenbeck 3-20-241-2,sadness
+767,77th 3-20-298-1,neutral
+768,Hollenbeck 2-20-187-2,joy
+769,Southwest 1-15-348-3,sadness
+770,Southeast 3-10-178-2,joy
+771,Hollenbeck 2-20-158-3,sadness
+772,Southwest 1-15-397-2,sadness
+773,BVCB-0-194-3,sadness
+774,Hollenbeck 2-20-143-2,neutral
+775,Hollenbeck 3-20-267-1,sadness
+776,Hollenbeck 2-20-45-2,joy
+777,Newton 2-23-228-1,fear
+778,77th 2-13-1383-2,sadness
+779,Hollenbeck 3-20-268-1,sadness
+780,77th 1-16-234-1,neutral
+781,77th 1-16-236-1,neutral
+782,Foothill-14-378-1,neutral
+783,Hollenbeck 3-20-160-3,fear
+784,Foothill-14-380-1,sadness
+785,Newton 2-23-260-2,sadness
+786,Southwest 1-15-334-2,fear
+787,Hollenbeck 3-20-246-2,neutral
+788,Hollenbeck 3-20-264-1,joy
+789,77th 1-16-237-1,joy
+790,Newton 2-23-69-2,fear
+791,Southwest 2-23-90-2,joy
+792,77th 3-20-334-1,sadness
+793,Hollenbeck 2-20-71-3,fear
+794,Southwest 2-23-241-1,sadness
+795,Hollenbeck 3-20-276-1,sadness
+796,Hollenbeck 1-20-199-3,neutral
+797,Olympic-25-15-1,sadness
+798,Southwest 2-23-231-1,fear
+799,Southwest 2-23-232-1,fear
+800,Hollenbeck 1-20-228-2,neutral
+801,Hollenbeck 1-20-226-2,fear
+802,Harbor-21-246-1,sadness
+803,BVCB-0-235-3,fear
+804,Hollenbeck 1-20-255-2,sadness
+805,Rampart 1-12-531-2,fear
+806,Hollenbeck 3-20-265-1,sadness
+807,Hollenbeck 3-20-3-4,neutral
+808,Newton 1-17-301-2,sadness
+809,Harbor-21-239-1,sadness
+810,Mission-14-342-1,neutral
+811,Hollenbeck 2-20-190-3,neutral
+812,Hollenbeck 2-20-214-2,joy
+813,Southwest 2-23-93-2,anger
+814,Newton 1-17-254-2,joy
+815,BHSEA-2-107-4,neutral
+816,Hollenbeck 1-20-374-1,neutral
+817,Southwest 1-15-375-2,sadness
+818,Newton 1-17-199-2,sadness
+819,Southwest 1-15-347-2,fear
+820,Southwest 1-15-346-2,sadness
+821,Hollenbeck 3-20-122-4,sadness
+822,Southwest 2-23-98-1,anger
+823,Newton 1-23-320-1,fear
+824,Pacific-18-123-2,fear
+825,Newton 2-23-224-1,fear
+826,Hollenbeck 2-20-50-3,fear
+827,Southwest 1-15-372-3,fear
+828,Newton 1-17-272-2,sadness
+829,Pacific-18-232-2,fear
+830,Harbor-21-240-1,neutral
+831,Hollenbeck 1-20-368-2,neutral
+832,Northeast-25-25-1,fear
+833,Foothill-14-506-1,fear
+834,Newton 1-17-235-3,sadness
+835,Northeast-25-24-1,joy
+836,Southeast 1-24-14-1,sadness
+837,Devonshire-Topanga-11-188-1,sadness
+838,Hollenbeck 2-20-136-2,sadness
+839,Devonshire-Topanga-11-180-1,sadness
+840,Southeast 2-20-268-1,neutral
+841,Southeast 2-20-326-1,joy
+842,Southwest 2-23-183-1,sadness
+843,Hollenbeck 3-20-298-1,sadness
+844,Newton 2-23-308-1,neutral
+845,Hollenbeck 2-20-224-2,sadness
+846,Southeast 3-10-176-2,sadness
+847,Harbor-21-259-1,neutral
+848,Devonshire-Topanga-11-177-1,fear
+849,Olympic-25-54-2,neutral
+850,Hollenbeck 1-20-177-3,neutral
+851,Newton 2-23-299-1,sadness
+852,Devonshire-Topanga-11-186-1,sadness
+853,Southeast 1-24-10-1,sadness
+854,Southeast 1-24-3-1,sadness
+855,Hollenbeck 2-20-192-2,joy
+856,Southwest 1-15-290-2,sadness
+857,Newton 2-23-321-1,sadness
+858,NHSEA-0-222-5,fear
+859,Devonshire-Topanga-11-181-1,sadness
+860,Newton 2-23-290-1,sadness
+861,Foothill-14-388-1,fear
+862,Southwest 2-23-179-1,sadness
+863,Southwest 1-15-384-2,fear
+864,Devonshire-Topanga-11-183-1,fear
+865,NHSEA-0-348-3,sadness
+866,Rampart 2-23-321-1,joy
+867,Devonshire-Topanga-11-192-1,fear
+868,Devonshire-Topanga-11-156-2,fear
+869,Rampart 2-23-302-1,sadness
+870,NHSEA-0-227-4,fear
+871,Southwest 1-15-414-1,sadness
+872,Rampart 2-23-319-1,sadness
+873,Harbor-21-266-1,anger
+874,Southwest 1-15-319-2,sadness
+875,Southwest 2-23-253-1,neutral
+876,Southwest 2-23-254-1,sadness
+877,Hollenbeck 3-20-266-2,sadness
+878,Northeast-25-44-1,neutral
+879,Rampart 2-23-317-1,joy
+880,Devonshire-Topanga-11-152-2,anger
+881,Hollenbeck 1-20-160-3,sadness
+882,Southeast 1-24-37-1,sadness
+883,Southwest 1-15-390-2,sadness
+884,Rampart 2-23-309-1,sadness
+885,Hollenbeck 2-20-201-2,sadness
+886,Rampart 2-23-327-1,neutral
+887,Southwest 1-15-316-2,neutral
+888,Rampart 1-12-620-1,sadness
+889,Southwest 1-15-350-2,fear
+890,Foothill-14-380-1,sadness
+891,Harbor-21-262-1,sadness
+892,Harbor-21-263-1,fear
+893,Hollenbeck 1-20-254-2,neutral
+894,Harbor-21-264-1,fear
+895,Newton 2-23-312-1,sadness
+896,Newton 2-23-313-1,sadness
+897,Newton 1-23-343-1,sadness
+898,Newton 2-23-258-1,sadness
+899,Southwest 1-15-348-3,sadness
+900,Hollenbeck 1-20-245-2,sadness
+901,Devonshire-Topanga-11-153-2,joy
+902,Hollenbeck 3-20-199-2,neutral
+903,Devonshire-Topanga-11-187-1,joy
+904,Devonshire-Topanga-11-147-2,joy
+905,Newton 2-23-291-1,joy
+906,NHSEA-0-117-4,sadness
+907,Devonshire-Topanga-11-162-1,fear
+908,Hollenbeck 3-20-169-3,sadness
+909,Newton 2-23-326-1,fear
+910,Devonshire-Topanga-11-129-1,fear
+911,Devonshire-Topanga-11-117-2,joy
+912,Devonshire-Topanga-11-120-2,sadness
+913,Southwest 2-23-265-1,fear
+914,Southwest 1-15-301-3,anger
+915,Southeast 1-24-46-1,fear
+916,Rampart 1-12-625-1,neutral
+917,Harbor-21-223-1,sadness
+918,77th 2-13-1500-1,sadness
+919,77th 2-13-1503-1,fear
+920,77th 2-13-1504-1,fear
+921,77th 2-13-1505-1,fear
+922,Foothill-14-516-1,neutral
+923,Southeast 3-10-302-1,sadness
+924,Southeast 3-10-312-1,sadness
+925,Southeast 3-10-301-1,fear
+926,Southeast 3-10-303-1,sadness
+927,Southeast 3-10-306-1,fear
+928,Devonshire-Topanga-11-168-2,joy
+929,Southeast 3-10-308-1,sadness
+930,Southeast 3-10-304-1,sadness
+931,Devonshire-Topanga-11-193-1,fear
+932,Southeast 3-10-305-1,fear
+933,Southwest 1-15-393-2,fear
+934,77th 2-13-1382-2,sadness
+935,Hollenbeck 1-20-244-1,neutral
+936,77th 2-13-1383-2,sadness
+937,Rampart 1-12-619-1,fear
+938,Hollenbeck 1-20-250-2,neutral
+939,Southeast 3-10-310-1,joy
+940,Northeast-25-43-1,sadness
+941,Hollenbeck 2-20-221-2,joy
+942,Southeast 1-24-65-1,sadness
+943,Newton 2-23-331-1,sadness
+944,Foothill-14-526-1,joy
+945,BVCB-0-126-3,sadness
+946,Harbor-21-220-1,fear
+947,Southeast 2-20-290-1,neutral
+948,Newton 2-23-200-2,joy
+949,Southeast 1-24-66-1,neutral
+950,Foothill-14-410-1,anger
+951,Southwest 1-15-360-3,neutral
+952,BVCB-0-114-4,sadness
+953,Newton 2-23-346-1,anger
+954,Hollenbeck 2-20-158-3,neutral
+955,Southwest 1-15-397-2,joy
+956,Devonshire-Topanga-11-195-1,fear
+957,Southwest 2-23-272-1,fear
+958,Foothill-14-539-1,neutral
+959,Foothill-14-527-1,fear
+960,Foothill-14-525-1,neutral
+961,Southwest 1-15-375-2,fear
+962,Hollenbeck 1-20-371-2,joy
+963,Southwest 2-23-273-1,sadness
+964,Southeast 2-20-311-2,sadness
+965,Foothill-14-535-1,fear
+966,Harbor-21-240-1,neutral
+967,Rampart 2-23-362-1,neutral
+968,Hollenbeck 2-20-82-3,sadness
+969,Hollywood-12-138-1,fear
+970,Newton 1-23-362-1,fear
+971,Hollenbeck 1-20-149-3,joy
+972,Harbor-21-239-1,joy
+973,NHSEA-0-134-2,fear
+974,Rampart 1-12-600-2,anger
+975,77th 3-20-349-1,neutral
+976,77th 3-20-355-1,fear
+977,Hollenbeck 3-20-272-2,joy
+978,77th 3-20-373-1,fear
+979,Newton 2-23-310-1,sadness
+980,Newton 2-23-339-1,neutral
+981,Hollenbeck 2-20-228-2,fear
+982,Southeast 1-24-77-1,sadness
+983,77th 3-20-322-2,neutral
+984,Southeast 1-24-82-1,neutral
+985,Southeast 1-24-79-1,sadness
+986,Rampart 1-12-391-3,sadness
+987,Southeast 1-24-72-1,fear
+988,Northeast-25-68-2,sadness
+989,Hollenbeck 3-20-298-1,fear
+990,Pacific-18-110-2,fear
